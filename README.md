@@ -5,6 +5,7 @@
 This tool is designed for researchers, security analysts, and red teamers who want to map the exposure of open LLM endpoints on the internet.
 
 ---
+![image](https://github.com/user-attachments/assets/53f82da7-09b7-4da0-8b5d-57323a412cb1)
 
 ## 🔍 Features
 
